@@ -1,0 +1,2 @@
+# SimplePasswordGenerator
+Generates a weak, medium and strong password. The weak password selects a word from the list randomly and prints it to the user. The medium password creates a random list of numbers from 0-3 that is of length 5. 0 corresponds to symbols in a list that is randomly selected, 1 corresponds to numbers, 2 corresponds to uppercase letters and 3 corresponds to lowercase letters. The strong password is the same idea except a higher length. 
